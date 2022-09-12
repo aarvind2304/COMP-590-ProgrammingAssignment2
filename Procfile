@@ -1,1 +1,1 @@
-web: gunicorn myapp:app
+web: gunicorn fitbit-methods-flask:app
